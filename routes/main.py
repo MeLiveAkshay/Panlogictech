@@ -1,4 +1,4 @@
 def init_route(app):
     @app.route('/')
     def hello():
-        return 'Hello World!'
+        return render_template('index.html')
