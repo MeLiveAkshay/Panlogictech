@@ -20,3 +20,11 @@ body {
   .logo {
     max-height: 120px;
   }
+  .nav-link:hover {
+    font-weight: bold;
+    border: 1px solid #ffffff;
+    padding: 10px 20px;
+  }
+  .nav-link.active {
+    font-weight: bold;
+  }
