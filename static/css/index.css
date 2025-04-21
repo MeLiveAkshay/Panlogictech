@@ -1,2 +1,22 @@
 
-
+body {
+    background-color: #0d0d0d;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .teal {
+    color: #00d2d3;
+  }
+  .bg-teal {
+    background-color: #00d2d3;
+    color: #000;
+  }
+  .white {
+    color: #fff;
+  }
+  .section {
+    padding: 60px 0;
+  }
+  .logo {
+    max-height: 120px;
+  }
